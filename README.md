@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://i.imgur.com/t9SpiVB.gif" width="400px" alt="App Demo" />
+![App Demo](https://i.imgur.com/t9SpiVB.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur
