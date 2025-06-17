@@ -42,7 +42,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![App Demo](https://i.imgur.com/t9SpiVB.gif)
+<img src="FlashCards/src/assets/demoGif.gif" width="400px" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur
