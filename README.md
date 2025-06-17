@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Asian Cuisine Knowledge*
 
 Submitted by: **Zicheng Tan**
 
@@ -42,10 +42,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/t9SpiVB.gif' title='Video Walkthrough' width='400px ' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/t9SpiVB.gif" width="400px" alt="App Demo" />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Imgur
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
