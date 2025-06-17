@@ -46,7 +46,7 @@ Here's a walkthrough of implemented required features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Imgur (https://i.imgur.com/ulTet02.gif)
+GIF created with Imgur (https://i.imgur.com/t9SpiVB.gif)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
