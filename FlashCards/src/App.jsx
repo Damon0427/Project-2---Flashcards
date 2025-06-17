@@ -5,11 +5,11 @@ import miso from './assets/miso.jpg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(10)
+  const [count, setCount] = useState(1)
   const [isClicked, setIsClicked] = useState(false)
   const updateClick = () => {
     setIsClicked(!isClicked)
-
+    
   }
   const goNext = () => {
     if (count < 10) {
