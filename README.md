@@ -45,10 +45,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="FlashCards/src/assets/demoGif.gif" width="400px" />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur (https://i.imgur.com/hZuQ2re.gif)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
